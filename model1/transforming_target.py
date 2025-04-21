@@ -130,6 +130,7 @@ How can we tell if our target is normally distributed? There are two ways:
 """
 
 boston_data.MEDV.hist();
+boston_data.info()
 
 """```
 # This is formatted as code
